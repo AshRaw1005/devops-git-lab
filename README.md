@@ -3,4 +3,3 @@ This repository is for practicing advanced Git concepts.
 This is a remote change simulation
 This is a remote change simulation
 This is a remote change simulation
-This is a bad change.
