@@ -1,5 +1,2 @@
-filters:
-  - name: status
-    values: [active, inactive]
-  - name: priority
-    values: [high, medium, low]
+version: 1.0
+developer: "Developer A"
